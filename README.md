@@ -13,7 +13,7 @@ Since 2019 Ive completed numerous courses with *Code First: Girls*, a UK-based s
 
 In my free time, I'm an avid boulderer and climber 🧗🏻‍♀️. I also enjoy singing, reading, and going to all sorts of cultural and artsy activities 🎨.
 
-Here you can explore some of the personal projects I've recently completed:
+Here you can explore some of the projects I've recently completed:
 
 ## Projects
 
