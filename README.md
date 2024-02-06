@@ -5,7 +5,7 @@ I'm a Barcelonian currently based in 🇳🇱. I also spent 3 wonderful years in
 
 ## About Me
 
-During my Physics degree I discovered my passion for coding, but i wasn't until after a few years in academic Philosophy that I realised how much I missed STEM. 
+During my Physics degree I discovered my passion for coding, but it wasn't until after a few years in academic Philosophy that I realised how much I missed STEM. 
 My highly analytical and creative profile aligns perfectly with a career in tech. In particular, a career in full-stack: I appreciate well-structured and aesthetically pleasing apps, making me a true all-rounder!
 
 Since 2019 Ive completed numerous courses with *Code First: Girls*, a UK-based social enterprise that provides free coding courses to women and non-binary people. Most recently, I graduated from *Ironhack*'s remote web development bootcamp. My current focus is on continuing to grow my skills through personal projects in the following stack: **HTML**, **CSS**, **JS**, **React**, **NodeJS**, **Express**, **MongoDB**, and **Python**.
@@ -22,11 +22,12 @@ Here you can explore some of the personal projects I've recently completed:
   
 - [Do](https://github.com/niranzri/react-app): single-page to-do list that enables users to create and manage tasks. Tech stack: ReactJS, CSS. 
 
-- [Skyward Avengers](https://github.com/niranzri/skyward-avengers): a responsive science education game for meteorology students and aficionados, where players classify clouds based on height. Deployed with Github Pages [here] (https://niranzri.github.io/skyward-avengers/). Tech stack: HTML, CSS, Javascript (ES6), responsive design. 
+- [Skyward Avengers](https://github.com/niranzri/skyward-avengers): a responsive science education game for meteorology students and aficionados, where players classify clouds based on height. Deployed with Github Pages [here](https://niranzri.github.io/skyward-avengers/). Tech stack: HTML, CSS, Javascript (ES6), responsive design. 
 
 ## Contact
 
 Feel free to reach out to me on:
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranzri)
 
 Thanks for stopping by!
