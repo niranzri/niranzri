@@ -1,4 +1,4 @@
-### Hi, I'm Noelia! 👋
+# Hi, I'm Noelia! 👋
 
 My name is Noelia, and I'm a junior software developer. 
 
@@ -17,7 +17,7 @@ Here you can explore some of the personal projects I've recently completed:
 
 ## Projects
 
-# Ironhack bootcamp:
+### Ironhack bootcamp:
 
 - [SportsHub](https://github.com/niranzri/sportsHub-frontend): full-stack application that serves as a hub for gyms to advertise their activities and for users to browse and select activities of interest (so far only the company par of the project has been implemented). Deployed with Adaptable and Netlify [here](https://sports-hub-ironhack.netlify.app/). Tech stack: ReactJS, CSS, MongoDB, NodeJS, Express, JSON web tokens. 
 
