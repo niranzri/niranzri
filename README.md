@@ -11,7 +11,7 @@ My highly analytical and creative profile aligns perfectly with a career in full
 
 Since 2019 Ive completed numerous courses with *Code First: Girls*, a UK-based social enterprise that provides free coding courses to women and non-binary people. Most recently, I graduated from *Ironhack*'s remote web development bootcamp. My current focus is on continuing to grow my skills through personal projects in the following stack: **HTML**, **CSS**, **JS**, **React**, **NodeJS**, **Express**, **MongoDB**, and **Python**.
 
-In my free time, I'm an avid boulderer and climber 🧗🏻‍♀️. I also enjoy singing, reading, and going to all sorts of cultural and artsy activities 🎨.
+In my free time, I'm an avid boulderer and climber 🧗🏻‍♀️. I also enjoy singing, reading, and doing all sorts of cultural and artsy activities 🎨.
 
 Here you can explore some of the projects I've recently completed:
 
