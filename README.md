@@ -1,19 +1,20 @@
 # Hi, I'm Noelia! 👋
 
-My name is Noelia, and I'm a junior software developer. 
+My name is Noelia, and I'm a junior software engineer. 
 
 I'm a Barcelonian based in the 🇳🇱. I also spent 3 wonderful years in the city of a thousand trades 🇬🇧. 
 
 ## About Me
 
 During my Physics degree I discovered my passion for coding, but it wasn't until after a few years in academic Philosophy that I realised how much I missed STEM. 
-My highly analytical and creative profile aligns perfectly with a career in full-stack development: I appreciate well-structured and aesthetically pleasing apps, making me a true all-rounder!
+That's why I re-trained in software development. 
 
-Since 2019 Ive completed numerous courses with *Code First: Girls*, a UK-based social enterprise that provides free coding courses to women and non-binary people. Most recently, I graduated from *Ironhack*'s remote web development bootcamp. My current focus is on continuing to grow my skills through personal projects in the following stack: **HTML**, **CSS**, **JS**, **React**, **Node**, **Express**, **MongoDB**, and **Python**.
+Since 2019 Ive completed numerous courses with *Code First: Girls*, a UK-based social enterprise that provides free coding courses to women and non-binary people, and in February 2024 I graduated from *Ironhack*'s remote web development bootcamp. 
+I currently work as junior software enginner at *We Are Percent*. 
 
 In my free time, I'm an avid boulderer and climber 🧗🏻‍♀️. I also enjoy singing, reading, and doing all sorts of cultural and artsy activities 🎨.
 
-Here you can explore some of the projects I've recently completed:
+Here you can explore some of my past projects:
 
 ## Projects
 
