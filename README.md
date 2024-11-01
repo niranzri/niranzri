@@ -12,7 +12,7 @@ That's why I re-trained in software development.
 Since 2019 Ive completed numerous courses with *Code First: Girls*, a UK-based social enterprise that provides free coding courses to women and non-binary people, and in February 2024 I graduated from *Ironhack*'s remote web development bootcamp. 
 I currently work as junior software enginner at **We Are Percent**. 
 
-In my free time, I'm an avid boulderer and climber 🧗🏻‍♀️. I also enjoy singing, reading, and doing all sorts of cultural and artsy activities 🎨.
+In my free time, I'm an avid boulderer and climber 🧗🏻‍♀️. I also enjoy singing, reading, and doing all sorts of cultural/artsy activities 🎨.
 
 Here you can explore some of my past projects:
 
